@@ -17,3 +17,4 @@ requests==2.27.1
 sphinx==4.5.0
 sphinx-notfound-page==0.8
 sphinx-rtd-theme==1.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
